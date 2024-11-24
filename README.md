@@ -94,4 +94,5 @@ This project is licensed under the MIT License.
 - GitHub: Colby04
 - Email: cjcodes2024@gmail.com
 - Repo Link: https://github.com/Colby04/Challenge-17-Social-Network-API.git
-- Screen Recording: 
+- Screen Recording: https://youtu.be/glqdvX_JBAg
+- [![Watch the video](https://img.youtube.com/vi/glqdvX_JBAg/0.jpg)](https://www.youtube.com/watch?v=<glqdvX_JBAg) 
